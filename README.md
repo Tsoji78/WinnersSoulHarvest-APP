@@ -19,7 +19,7 @@ SoulHarvest utilizes the following technologies:
 - **Backend**:
   - Django: A high-level Python web framework for backend development.
   - Django REST Framework: A powerful toolkit for building Web APIs in Django.
-  - PostgreSQL: An open-source relational database management system.
+  - SQLite: An open-source relational database management system.
   - Python: A versatile programming language used for backend development.
 
 - **Frontend**:
